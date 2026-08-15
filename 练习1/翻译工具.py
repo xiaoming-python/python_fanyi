@@ -10,7 +10,7 @@ import time
 # ====================== 请修改这里 ======================
 YOUDAO_URL = "https://openapi.youdao.com/api"
 APP_KEY = "you_apikey"  # 替换成你创建应用后得到的 appKey
-APP_SECRET = "XfVPqY4BhMNTiTHHMgIkDklLCaNOo9bh"  # 替换成你创建应用后得到的 appSecret
+APP_SECRET = "appsecret"  # 替换成你创建应用后得到的 appSecret
 
 
 # =======================================================
